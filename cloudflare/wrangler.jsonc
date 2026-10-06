@@ -1,0 +1,7 @@
+{
+ "name":"super-madamis-sync",
+ "main":"worker/index.mjs",
+ "compatibility_date":"2026-10-06",
+ "vars":{"PROJECT_ID":"super_madamis_x","ALLOWED_ORIGIN":"https://noraelf-creator.github.io","SESSION_DAYS":"30"},
+ "d1_databases":[{"binding":"DB","database_name":"super-madamis-author-notes","database_id":"52a9c96a-db90-4fdf-b617-5d66ebfd0f34","migrations_dir":"migrations"}]
+}
